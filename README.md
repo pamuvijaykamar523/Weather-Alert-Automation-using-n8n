@@ -9,3 +9,14 @@ IF Logic
 Gmail Integration
 HTML Form
 Automated Email Alerts
+
+## Screenshots
+
+### Workflow
+![Workflow](screenshots/workflow.png)
+
+### HTML Form
+![HTML Form](screenshots/form.png)
+
+### Email Alert
+![Email Alert](screenshots/email.png)
